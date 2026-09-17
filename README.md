@@ -1,15 +1,14 @@
 ## 💫 About Me:
 
-👋 Hi, I'm Hemanth Paladugu
+### 👋 Hi, I'm Hemanth Paladugu
 
-🎓 CS Grad Student @ ASU — Accelerated 4+1 M.S. Data Science  
-🔧 Full-stack, LLM & RAG projects 💻 ☁️  
-🚀 Seeking Summer 2027 SWE / Data Engineering internships  
-🧠 Building with FastAPI, LangChain, React & AWS  
-⚙️ Python | Java | TypeScript | MongoDB | AWS
+### 🎓 CS Grad Student @ ASU — Accelerated 4+1 M.S. Data Science
+### 🔧 Full-stack, LLM & RAG projects 💻 ☁️
+### 🚀 Seeking Summer 2027 SWE / Data Engineering internships
+### 🧠 Building with FastAPI, LangChain, React & AWS
+### ⚙️ Python | Java | TypeScript | MongoDB | AWS
 
-📧 hpaladu2@asu.edu
-
+### 📫 hpaladu2@asu.edu
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hemanth-paladugu04/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hpaladu2@asu.edu)
